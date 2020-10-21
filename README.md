@@ -9,7 +9,7 @@ As the restrictions on overseas travel persist amid the COVID-19 pandemic, Jeju 
 - Jinseo Lee : in charge of Interpark Hotel data
 - Hyungki Kim : in charge of Hotels.com data
 
-## Contents
+## Process
 - Data preparation
 - Data understanding and exploration
 - Outlier removal
