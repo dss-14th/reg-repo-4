@@ -37,10 +37,10 @@ As the restrictions on overseas travel persist amid the COVID-19 pandemic, Jeju 
 <img src="https://user-images.githubusercontent.com/68367273/96961009-b2fcce00-153e-11eb-94ba-d75b58458c39.png" alt="drawing" width="500"/>
 
 - Box plot of cv scores of classifiers over 5-fold cross validation 
-<img src="https://user-images.githubusercontent.com/68367273/96960795-3b2ea380-153e-11eb-92ab-19a5f8039734.png" alt="drawing" width="650"/>
+<img src="https://user-images.githubusercontent.com/68367273/96956979-6ad8ae00-1534-11eb-8011-1798606557ee.png" alt="drawing" width="650"/>
 
 - Scatter plot of actual price vs predicted price
-<img src="https://user-images.githubusercontent.com/68367273/96956979-6ad8ae00-1534-11eb-8011-1798606557ee.png" alt="drawing" width="650"/>
+<img src="https://user-images.githubusercontent.com/68367273/96960795-3b2ea380-153e-11eb-92ab-19a5f8039734.png" alt="drawing" width="650"/>
 
 ### Booking.com
 - Comparison of RMSE and R2 score of training and testing data sets
