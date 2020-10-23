@@ -24,3 +24,16 @@ As the restrictions on overseas travel persist amid the COVID-19 pandemic, Jeju 
 - Gradient Boosting Regressor
 - XGB Regressor
 - LGBM Regressor
+
+## Evaluation
+### Interpark Hotel
+- Comparison of RMSE and R2 score of training and testing data sets
+<img src="https://user-images.githubusercontent.com/68367273/96961009-b2fcce00-153e-11eb-94ba-d75b58458c39.png" alt="drawing" width="500"/>
+<img src="https://user-images.githubusercontent.com/68367273/96956979-6ad8ae00-1534-11eb-8011-1798606557ee.png" alt="drawing" width="650"/>
+<img src="https://user-images.githubusercontent.com/68367273/96960795-3b2ea380-153e-11eb-92ab-19a5f8039734.png" alt="drawing" width="650"/>
+
+### Booking.com
+- Comparison of RMSE and R2 score of training and testing data sets
+<img src="https://user-images.githubusercontent.com/68367273/96956718-d3735b00-1533-11eb-86c3-39e25244fcad.png" alt="drawing" width="500"/>
+<img src="https://user-images.githubusercontent.com/68367273/96956759-ebe37580-1533-11eb-827d-37d0ee0e3925.png" alt="drawing" width="650"/>
+<img src="https://user-images.githubusercontent.com/68367273/96956830-12a1ac00-1534-11eb-9039-325935de48ed.png" alt="drawing" width="650"/>
