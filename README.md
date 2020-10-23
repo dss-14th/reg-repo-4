@@ -23,10 +23,10 @@ As the restrictions on overseas travel persist amid the COVID-19 pandemic, Jeju 
 ### Price Outlier Removal
 
 - Interpark Hotel
-<img src="https://user-images.githubusercontent.com/68367273/96967094-e85ae900-1549-11eb-8d0d-e355a53109d3.png" alt="drawing" width="650"/>
+<img src="https://user-images.githubusercontent.com/68367273/96967697-daf22e80-154a-11eb-988c-fabe037e7c3c.png" alt="drawing" width="650"/>
 
 - Booking.com
-<img src="https://user-images.githubusercontent.com/68367273/96966987-c2354900-1549-11eb-8a37-c74c1234e45c.png" alt="drawing" width="650"/>
+<img src="https://user-images.githubusercontent.com/68367273/96967743-ee04fe80-154a-11eb-8345-e24d2e18484b.png" alt="drawing" width="650"/>
 
 ## Regression Models
 - Linear Regression
@@ -54,7 +54,12 @@ As the restrictions on overseas travel persist amid the COVID-19 pandemic, Jeju 
 <img src="https://user-images.githubusercontent.com/68367273/96956718-d3735b00-1533-11eb-86c3-39e25244fcad.png" alt="drawing" width="500"/>
 
 - Box plot of cv scores of classifiers over 5-fold cross validation
-<img src="https://user-images.githubusercontent.com/68367273/96956759-ebe37580-1533-11eb-827d-37d0ee0e3925.png" alt="drawing" width="650"/>
+<img src="https://user-images.githubusercontent.com/68367273/96967797-01b06500-154b-11eb-809c-fdc785bddb48.png" alt="drawing" width="650"/>
 
 - Scatter plot of actual price vs predicted price
-<img src="https://user-images.githubusercontent.com/68367273/96956830-12a1ac00-1534-11eb-9039-325935de48ed.png" alt="drawing" width="650"/>
+<img src="https://user-images.githubusercontent.com/68367273/96967858-112fae00-154b-11eb-8c2a-4487b45dedb5.png" alt="drawing" width="650"/>
+
+
+
+
+
