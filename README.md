@@ -59,6 +59,9 @@ As the restrictions on overseas travel persist amid the COVID-19 pandemic, Jeju 
 - Scatter plot of actual price vs predicted price
 <img src="https://user-images.githubusercontent.com/68367273/96967858-112fae00-154b-11eb-8c2a-4487b45dedb5.png" alt="drawing" width="650"/>
 
+## Projection
+- Interpark Hotel
+  - 
 
 
 
