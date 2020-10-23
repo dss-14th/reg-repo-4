@@ -10,7 +10,7 @@ As the restrictions on overseas travel persist amid the COVID-19 pandemic, Jeju 
 
 ## Contributors
 - Jinseo Lee : in charge of Interpark Hotel data
-- Hyungki Kim : in charge of Hotels.com data
+- Hyunggi Kim : in charge of Hotels.com data
 
 
 ## Process
@@ -60,8 +60,11 @@ As the restrictions on overseas travel persist amid the COVID-19 pandemic, Jeju 
 <img src="https://user-images.githubusercontent.com/68367273/96967858-112fae00-154b-11eb-8c2a-4487b45dedb5.png" alt="drawing" width="650"/>
 
 ## Projection
-- Interpark Hotel
-  - 
+- Interpark Hotel : check-in date, star, review count, review score, distance from Jeju Airport
+  - [20200925, 4, 1000, 9, 5] 76863 Won
+  - 20200918, 4, 750, 8, 10 -> 92097 Won
+- Hotels.com : Area, Reviews, rating, distance, weekend (0:weekday)
+jinseo = np.array([[30, 100, 8, 10, 0]])
 
 
 
