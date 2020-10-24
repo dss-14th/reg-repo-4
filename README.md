@@ -60,12 +60,8 @@ As the restrictions on overseas travel persist amid the COVID-19 pandemic, Jeju 
 <img src="https://user-images.githubusercontent.com/68367273/96967858-112fae00-154b-11eb-8c2a-4487b45dedb5.png" alt="drawing" width="650"/>
 
 ## Projection
-- Interpark Hotel : check-in date, star, review count, review score, distance from Jeju Airport
-  - [20200925, 4, 1000, 9, 5] 76863 Won
-  - 20200918, 4, 750, 8, 10 -> 92097 Won
-- Hotels.com : Area, Reviews, rating, distance, weekend (0:weekday)
-jinseo = np.array([[30, 100, 8, 10, 0]])
+- Interpark Hotel
+ <img src="https://user-images.githubusercontent.com/68367273/96974471-3f65bb80-1554-11eb-8262-8b6532ba12c3.png" alt="drawing" width="500"/>
 
-
-
-
+- Hotels.com
+<img src="https://user-images.githubusercontent.com/68367273/96974398-24934700-1554-11eb-91ef-cb803b6c0aeb.png" alt="drawing" width="500"/>
