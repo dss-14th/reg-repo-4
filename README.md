@@ -21,7 +21,6 @@ As the restrictions on overseas travel persist amid the COVID-19 pandemic, Jeju 
 - Cross validation
 
 ### Price Outlier Removal
-
 - Interpark Hotel
 <img src="https://user-images.githubusercontent.com/68367273/96967697-daf22e80-154a-11eb-988c-fabe037e7c3c.png" alt="drawing" width="650"/>
 
@@ -47,7 +46,7 @@ As the restrictions on overseas travel persist amid the COVID-19 pandemic, Jeju 
 <img src="https://user-images.githubusercontent.com/68367273/96966247-6fa75d00-1548-11eb-900d-33545a3492c4.png" alt="drawing" width="650"/>
 
 - Scatter plot of actual price vs predicted price
-<img src="https://user-images.githubusercontent.com/68367273/96966479-d3318a80-1548-11eb-9a3d-5878b58291f1.png" alt="drawing" width="650"/>
+<img src="https://user-images.githubusercontent.com/68367273/97066327-7210c200-15ef-11eb-9930-43a0abd163e3.png" alt="drawing" width="650"/>
 
 ### Booking.com
 - Comparison of RMSE and R2 score of training and testing data sets
@@ -57,7 +56,7 @@ As the restrictions on overseas travel persist amid the COVID-19 pandemic, Jeju 
 <img src="https://user-images.githubusercontent.com/68367273/96967797-01b06500-154b-11eb-809c-fdc785bddb48.png" alt="drawing" width="650"/>
 
 - Scatter plot of actual price vs predicted price
-<img src="https://user-images.githubusercontent.com/68367273/96967858-112fae00-154b-11eb-8c2a-4487b45dedb5.png" alt="drawing" width="650"/>
+<img src="https://user-images.githubusercontent.com/68367273/97066338-894faf80-15ef-11eb-90b4-13ed7f77cd91.png" alt="drawing" width="650"/>
 
 ## Projection
 - Interpark Hotel
@@ -65,3 +64,4 @@ As the restrictions on overseas travel persist amid the COVID-19 pandemic, Jeju 
 
 - Hotels.com
 <img src="https://user-images.githubusercontent.com/68367273/96974398-24934700-1554-11eb-91ef-cb803b6c0aeb.png" alt="drawing" width="500"/>
+
